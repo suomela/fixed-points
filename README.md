@@ -14,7 +14,13 @@ Directory A-B-L:
 
 ## Contact
 
-Jukka Suomela — https://jukkasuomela.fi/
+- Jukka Suomela — https://jukkasuomela.fi/
+
+
+## Contributors
+
+- Dennis Olivetti
+- Jukka Suomela
 
 
 ## License
