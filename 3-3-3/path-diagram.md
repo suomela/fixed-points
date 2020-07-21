@@ -2,8 +2,8 @@
 
     A B C
 
-    A AB AB ABC
-    A A A AB
+    A A AB ABC
+    A AB AB AB
 
 # Intuition
 
