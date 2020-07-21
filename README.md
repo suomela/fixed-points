@@ -6,6 +6,13 @@ Directory A-B-L:
 - passibe degree B
 - L labels
 
+Directory A-B-L-distance-D:
+
+- active degree A
+- passibe degree B
+- L labels
+- D steps of round elimination takes us to a fixed point
+
 
 ## References
 
