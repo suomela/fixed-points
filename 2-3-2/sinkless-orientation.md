@@ -1,8 +1,8 @@
 # Problem
 
-A B
+    A B
 
-A AB AB
+    A AB AB
 
 # Intuition
 
@@ -10,9 +10,9 @@ Sinkless orientation: edges oriented from A to B and for each node there is at l
 
 # Restriction
 
-A B
+    A B
 
-A B AB
+    A B AB
 
 # Intuition
 
