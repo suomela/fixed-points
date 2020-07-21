@@ -19,7 +19,7 @@ AB AB AB AB B B
 
 # Intuition
 
-Cover a 7-regular graph with stars of size 2-6.
+Cover a 6-regular graph with stars of size 2-6.
 
 # Credits
 
