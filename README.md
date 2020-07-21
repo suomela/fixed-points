@@ -7,6 +7,11 @@ Directory A-B-L:
 - L labels
 
 
+## References
+
+- Round Eliminator tool: https://github.com/olidennis/round-eliminator
+
+
 ## Contact
 
 Jukka Suomela — https://jukkasuomela.fi/
