@@ -6,3 +6,7 @@ Directory A-B-L:
 - passibe degree B
 - L labels
 
+
+## Contact
+
+Jukka Suomela — https://jukkasuomela.fi/
