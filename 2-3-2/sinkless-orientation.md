@@ -8,7 +8,7 @@
 
 Sinkless orientation: edges oriented from A to B and for each node there is at least one outgoing edge.
 
-# Same as
+# Next problem
 
 3-2-2/sinkless-orientation.md
 

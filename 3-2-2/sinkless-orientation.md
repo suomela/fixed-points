@@ -8,6 +8,6 @@
 
 Each node selects exactly one incident edge (marked with A), each edge is selected at most once.
 
-# Same as
+# Next problem
 
 2-3-2/sinkless-orientation.md

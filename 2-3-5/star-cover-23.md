@@ -9,7 +9,7 @@
     C C C
     X ABCXY ABCXY
 
-# Same as
+# Next problem
 
 3-2-5/star-cover-23.md
 

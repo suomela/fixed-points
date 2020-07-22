@@ -9,6 +9,6 @@
     B CX
     X ABCXY
 
-# Same as
+# Next problem
 
 2-3-5/star-cover-23.md
