@@ -9,6 +9,10 @@
     C C C
     X ABCXY ABCXY
 
+# Same as
+
+3-2-5/star-cover-23.md
+
 # Restriction
 
     A A
