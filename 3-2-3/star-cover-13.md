@@ -8,4 +8,4 @@
 
 # Next problem
 
-2-3-3/star-cover-13.md
+[2-3-3/star-cover-13](../2-3-3/star-cover-13.md)

@@ -11,7 +11,7 @@
 
 # Next problem
 
-3-2-5/star-cover-23.md
+[3-2-5/star-cover-23](../3-2-5/star-cover-23.md)
 
 # Restriction
 

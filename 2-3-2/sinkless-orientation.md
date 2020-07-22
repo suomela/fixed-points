@@ -10,7 +10,7 @@ Sinkless orientation: edges oriented from A to B and for each node there is at l
 
 # Next problem
 
-3-2-2/sinkless-orientation.md
+[3-2-2/sinkless-orientation](../3-2-2/sinkless-orientation.md)
 
 # Restriction
 

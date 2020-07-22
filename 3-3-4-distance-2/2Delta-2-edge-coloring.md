@@ -25,7 +25,7 @@
     B AB AB
 
 # Cross-reference
-3-3-2/sinkless-orientation.md
+[3-3-2/sinkless-orientation](../3-3-2/sinkless-orientation.md)
 
 # Intuition
 

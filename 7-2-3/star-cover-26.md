@@ -13,7 +13,7 @@ Cover a 7-regular graph with stars of size 2 or 6.
 
 # Next problem
 
-2-7-3/star-cover-26.md
+[2-7-3/star-cover-26](../2-7-3/star-cover-26.md)
 
 # Credits
 

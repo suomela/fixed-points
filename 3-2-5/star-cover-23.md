@@ -11,4 +11,4 @@
 
 # Next problem
 
-2-3-5/star-cover-23.md
+[2-3-5/star-cover-23](../2-3-5/star-cover-23.md)

@@ -14,7 +14,7 @@ Cover a 7-regular graph with stars of size 2, 4, or 6.
 
 # Next problem
 
-7-2-3/star-cover-246.md
+[7-2-3/star-cover-246](../7-2-3/star-cover-246.md)
 
 # Credits
 

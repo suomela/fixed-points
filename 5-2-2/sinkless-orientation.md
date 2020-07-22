@@ -10,4 +10,4 @@ Each node selects exactly one incident edge (marked with A), each edge is select
 
 # Next problem
 
-2-5-2/sinkless-orientation.md
+[2-5-2/sinkless-orientation](../2-5-2/sinkless-orientation.md)

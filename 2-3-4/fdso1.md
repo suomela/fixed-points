@@ -9,5 +9,5 @@
 
 # Next problem
 
-3-2-4/fdso1.md
+[3-2-4/fdso1](../3-2-4/fdso1.md)
 

@@ -13,7 +13,7 @@ FDSO(1), "forbidden degree or sinkless orientation" for s = 1. This is at least 
 
 # Next problem
 
-2-3-4/fdso1.md
+[2-3-4/fdso1](../2-3-4/fdso1.md)
 
 # References
 

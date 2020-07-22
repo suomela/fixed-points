@@ -12,7 +12,7 @@ Cover a 3-regular graph with stars of size 3.
 
 # Next problem
 
-3-2-3/star-cover-3.md
+[3-2-3/star-cover-3](../3-2-3/star-cover-3.md)
 
 # Credits
 
