@@ -25,6 +25,7 @@ Cover a 5-regular graph with stars of size 2-5.
 
 - Juho Hirvonen
 - Barbara Keller
+- Tanguy Rocher
 - Anton Saukkonen
 - Jan Studený
 - Jukka Suomela
