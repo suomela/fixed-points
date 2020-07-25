@@ -8,7 +8,7 @@
 
 # Notes
 
-Relaxation of [3-3-9/unnamed1](../3-3-9/unnamed1).
+Relaxation of [3-3-9/unnamed1](../3-3-9/unnamed1.md).
 
 Can be further relaxed to [3-3-2/sinkless-orientation](../3-3-2/sinkless-orientation.md).
 
