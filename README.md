@@ -1,22 +1,22 @@
-# Fixed points and cycles in round elimination
+# Periodic points in round elimination
 
 Round elimination is a function "re" that turns a locally verifiable graph problem P into a new graph problem P' = re(P).
 
-Sometimes round elimination leads to a fixed point, with P = re(P), or a short cycle, e.g., P = re(re(P)). Whenever this happens to a nontrivial problem P, we immediately get a lower bound for the distributed complexity of P. This repository is a catalogue of such problems P.
+Sometimes round elimination leads to a fixed point, with P = re(P), or a periodic point, e.g., P = re(re(P)). Whenever this happens to a nontrivial problem P, we immediately get a lower bound for the distributed complexity of P. This repository is a catalog of such problems P.
 
 Directory A-B-L:
 
 - active degree A
 - passive degree B
 - L labels
-- these problems are fixed points or parts of a cycle
+- these problems are periodic points
 
 Directory A-B-L-distance-D:
 
 - active degree A
 - passive degree B
 - L labels
-- D steps of round elimination takes us to a fixed point or a cycle
+- D steps of round elimination leads to a periodic point
 
 
 ## References
