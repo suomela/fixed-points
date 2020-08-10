@@ -31,6 +31,7 @@ Directory A-B-L-distance-D:
 
 ## Contributors
 
+- Alkida Balliu
 - Dennis Olivetti
 - Jukka Suomela
 
